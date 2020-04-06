@@ -1,0 +1,16 @@
+https://github.com/jangko/nimAES [] Advanced Encryption Standard, Rinjdael Algorithm written in Nim
+https://github.com/jangko/nimBMP [] BMP encoder and decoder
+https://github.com/jangko/nimPNG [] PNG (Portable Network Graphics) decoder and encoder written in Nim
+https://github.com/jangko/nimSHA2 [] Secure Hash Algorithm 2
+https://github.com/juancarlospaco/nim-constants [] Mathematical numerical named static constants useful for different disciplines
+https://github.com/juancarlospaco/nim-crc32 []  CRC
+https://github.com/juancarlospaco/nim-easings [] Robert Penner Easing Functions for Nim
+https://github.com/juancarlospaco/nim-euclidean []  Euclidean Division & Euclidean Modulo for Nim
+https://github.com/oprypin/nim-random [] Random number generation library for Nim
+https://github.com/unicredit/alea [] Define and compose random variables https://github.com/unicredit/alea
+https://github.com/unicredit/cello [cool] A string library https://unicredit.github.io/cello/
+https://github.com/unicredit/linear-algebra [] Linear algebra for Nim http://unicredit.github.io/linear-alg…
+https://github.com/unicredit/neo [] A matrix library https://unicredit.github.io/neo/
+https://github.com/unicredit/nimblas [] BLAS for Nim http://unicredit.github.io/nimblas
+https://github.com/yglukhov/asyncssh [] High level async libssh2 wrapper
+https://github.com/yglukhov/imgtools [] Image Tools
