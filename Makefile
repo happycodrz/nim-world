@@ -1,11 +1,20 @@
+update_apps:
+	export UPDATER_ROOT=$$(pwd)/apps && cd ex && mix update
+
 update_algos:
 	export UPDATER_ROOT=$$(pwd)/algos && cd ex && mix update
+
+update_async:
+	export UPDATER_ROOT=$$(pwd)/async && cd ex && mix update
 
 update_cli:
 	export UPDATER_ROOT=$$(pwd)/cli && cd ex && mix update
 
 update_config:
 	export UPDATER_ROOT=$$(pwd)/config && cd ex && mix update
+
+update_db:
+	export UPDATER_ROOT=$$(pwd)/dbs && cd ex && mix update
 
 update_editors:
 	export UPDATER_ROOT=$$(pwd)/editors && cd ex && mix update
@@ -34,8 +43,8 @@ update_system:
 update_quality:
 	export UPDATER_ROOT=$$(pwd)/quality && cd ex && mix update
 
-update_rpc:
-	export UPDATER_ROOT=$$(pwd)/rpc && cd ex && mix update
+update_reasoning:
+	export UPDATER_ROOT=$$(pwd)/reasoning && cd ex && mix update
 
 update_testing:
 	export UPDATER_ROOT=$$(pwd)/testing && cd ex && mix update
