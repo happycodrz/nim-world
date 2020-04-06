@@ -1,0 +1,5 @@
+https://github.com/Adeohluwa/gen [] Simple scaffolding tool for WEB / GUI / CLI apps written in Nim Lang
+https://github.com/status-im/nim-chronicles [] A crafty implementation of structured logging for Nim.
+https://github.com/status-im/nim-eth [] Ethereum-related utilities written in Nim. Includes things like Bloom filters, private/public key utilities, RLP, devp2p, and more.
+https://github.com/status-im/nim-stew [] stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.
+https://github.com/yglukhov/variant [] Variant type and type matching for Nim
