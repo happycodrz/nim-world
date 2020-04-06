@@ -1,0 +1,2 @@
+https://github.com/status-im/nim-beacon-chain [] Implementation of Ethereum Sharded Casper v2.1 Beacon Chain
+https://github.com/status-im/nimbus [] Nimbus: an Ethereum 1.0 & 2.0 Client for Resource-Restricted Devices https://github.com/status-im/nimbus/b…
