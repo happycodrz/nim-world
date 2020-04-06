@@ -1,0 +1,1 @@
+https://github.com/oprypin/nimception [] Templating language for Nim that uses Nim syntax and can be evaluated entirely at compile time
