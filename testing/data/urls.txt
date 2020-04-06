@@ -1,0 +1,3 @@
+https://github.com/juancarlospaco/nim-contra [] Lightweight Self-Documenting Design by Contract Programming and Security Hardened mode.
+https://github.com/SSPkrolik/illusion [] Experimental mocking framework for Nim
+https://github.com/yglukhov/coverage [] Code coverage library for Nim. Inspired by Andreas Rumpf talk at OSCON.
