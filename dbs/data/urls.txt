@@ -1,0 +1,11 @@
+https://github.com/Bennyelg/csvql [sqlite] query CSVs in memory. with ansi sql
+https://github.com/cheatfate/asyncpg [postgres] Asynchronous PostgreSQL driver for Nim language
+https://github.com/GULPF/tiny_sqlite [sqlite] A thin SQLite wrapper for Nim. Compared to the std/db_sqlite module it has several advantages:
+https://github.com/jlp765/db [orm] Unified db access module
+https://github.com/juancarlospaco/nim-calibre [] Calibre eBooks App Database Client for Nim.
+https://github.com/juancarlospaco/nim-gatabase [orm] Compile-Time ORM for Nim
+https://github.com/moigagoo/norm [orm] A Nim ORM https://moigagoo.github.io/norm/norm.…
+https://github.com/moigagoo/norman [orm] Migration manager for Norm https://moigagoo.github.io/norman/nor…
+https://github.com/SSPkrolik/asyncredis [redis] Asynchronous Redis client for Nim
+https://github.com/SSPkrolik/nimongo [mongodb] Pure Nim lang MongoDB driver http://sspkrolik.github.io/nimongo
+https://github.com/status-im/nim-rocksdb [rocksdb] Nim wrapper for RocksDB, a persistent key-value store for Flash and RAM Storage.
