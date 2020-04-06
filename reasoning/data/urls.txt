@@ -1,0 +1,3 @@
+https://github.com/unicredit/emmy [] Algebraic structures and related operations for Nim.
+https://github.com/unicredit/nimlapack [] LAPACK bindings for Nim -> LAPACK — Linear Algebra PACKage
+https://github.com/yglukhov/kiwi [] Constraint solving library
