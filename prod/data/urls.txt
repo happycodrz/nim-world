@@ -1,0 +1,2 @@
+https://github.com/status-im/nim-chronicles [] A crafty implementation of structured logging for Nim.
+https://github.com/status-im/nim-metrics [] Nim metrics client library supporting the Prometheus monitoring toolkit, StatsD and Carbon

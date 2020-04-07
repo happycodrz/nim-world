@@ -1,1 +1,3 @@
 https://github.com/AndreiRegiani/INim [] Interactive Nim Shell / REPL / Playground
+https://github.com/PMunch/nimlsp [] Language Server Protocol implementation for Nim
+https://github.com/trustable-code/geany-nim-filetype [] Geany configuration file to support the Nim programming language

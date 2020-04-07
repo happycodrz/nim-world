@@ -10,11 +10,25 @@ https://github.com/juancarlospaco/nim-constants [] Mathematical numerical named 
 https://github.com/juancarlospaco/nim-crc32 []  CRC
 https://github.com/juancarlospaco/nim-easings [] Robert Penner Easing Functions for Nim
 https://github.com/juancarlospaco/nim-euclidean []  Euclidean Division & Euclidean Modulo for Nim
+https://github.com/mratsim/Arraymancer [] Arraymancer - A n-dimensional tensor (ndarray) library.
+https://github.com/mratsim/constantine [] Constantine - Constant Time Elliptic Curve Cryptography
 https://github.com/nim-lang/zip [] Wrapper for the zip library
+https://github.com/numforge/laser [] The HPC toolbox: fused matrix multiplication, convolution, data-parallel strided tensor primitives, OpenMP facilities, SIMD, JIT Assembler, CPU detection, state-of-the-art vectorized BLAS for floats and integers
+https://github.com/numforge/loop-fusion [] Loop efficiently over a variadic number of containers
+https://github.com/numforge/nim-clblast [] A Nim wrapper for CLBlast, a tuned OpenCL BLAS library
 https://github.com/oprypin/nim-random [] Random number generation library for Nim
 https://github.com/PMunch/nim-persistent-vector [] Implementation of Clojures persistent vector in Nim for easy immutable lists.
 https://github.com/PMunch/strslice []  implementation of string slices that works on a common underlying string shared through a reference instead of copying parts of the string.
+https://github.com/sinkingsugar/nimtorch [] PyTorch - Python + Nim
+https://github.com/status-im/nim-blscurve [] BLS Signature Scheme over BLS12-381 pairing-friendly curve
+https://github.com/status-im/nim-bncurve [] Nim Barreto-Naehrig pairing-friendly elliptic curve implementation
+https://github.com/status-im/nim-decimal [decimal] A correctly-rounded arbitrary precision decimal floating point arithmetic library
 https://github.com/status-im/nim-faststreams [] Nearly zero-overhead input/output streams for Nim
+https://github.com/status-im/nim-kdf [] Cryptographic Key Derivation Functions
+https://github.com/status-im/nim-stint [integers, floats, decimal] Stack-based arbitrary-precision integers - Fast and portable with natural syntax for resource-restricted devices.
+https://github.com/StefanSalewski/cdt [] Constrained Delaunay Triangulation (2D), incremental / fully dynamic
+https://github.com/StefanSalewski/minmaxheap [] Heap with minimum and maximum access
+https://github.com/StefanSalewski/RTree [] Pure Nim generic R-Tree and R*-Tree
 https://github.com/unicredit/alea [] Define and compose random variables https://github.com/unicredit/alea
 https://github.com/unicredit/cello [cool] A string library https://unicredit.github.io/cello/
 https://github.com/unicredit/linear-algebra [] Linear algebra for Nim http://unicredit.github.io/linear-alg…
@@ -22,3 +36,4 @@ https://github.com/unicredit/neo [] A matrix library https://unicredit.github.io
 https://github.com/unicredit/nimblas [] BLAS for Nim http://unicredit.github.io/nimblas
 https://github.com/yglukhov/asyncssh [] High level async libssh2 wrapper
 https://github.com/yglukhov/imgtools [] Image Tools
+https://github.com/yglukhov/nimsl [] Shaders in Nim language

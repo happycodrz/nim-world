@@ -1,2 +1,11 @@
+https://github.com/h3rald/hastyscribe [] Self-contained markdown compiler generating self-contained HTML documents https://h3rald.com/hastyscribe
+https://github.com/h3rald/hastysite [] A small but powerful static site generator https://hastysite.h3rald.com
+https://github.com/h3rald/litestore [] A lightweight, self-contained, RESTful, searchable, multi-format NoSQL document store. https://h3rald.com/litestore
 https://github.com/status-im/nim-beacon-chain [] Implementation of Ethereum Sharded Casper v2.1 Beacon Chain
+https://github.com/status-im/nim-eth-contracts [] Ethereum smart contracts in Nim
+https://github.com/status-im/nim-ethash [] Nim implementation of Ethash, Ethereum proof of work and Ethereum mining
+https://github.com/status-im/nim-evmc [] Nim wrapper for EVMC - Ethereum Client-VM Connector API
+https://github.com/status-im/nim-stratus-console [] A Status console client implemented in Nim
 https://github.com/status-im/nimbus [] Nimbus: an Ethereum 1.0 & 2.0 Client for Resource-Restricted Devices https://github.com/status-im/nimbus/b…
+https://github.com/status-im/S-Pesa [] Smart Pesa - a USSD/SMS Interface to Smart Contracts, #defi & Decentralised Applications
+https://github.com/StefanSalewski/nim-chess4 [] Plain chess game written from scratch in Nim with GTK3 GUI, now using high level GUI API
