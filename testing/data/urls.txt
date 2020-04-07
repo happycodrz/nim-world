@@ -1,4 +1,6 @@
+https://github.com/FedericoCeratto/nim-testrunner [] Nim test runner
 https://github.com/juancarlospaco/nim-contra [] Lightweight Self-Documenting Design by Contract Programming and Security Hardened mode.
 https://github.com/SSPkrolik/illusion [] Experimental mocking framework for Nim
 https://github.com/status-im/nim-testutils [] testrunner et al
+https://github.com/treeform/ptest [awesome, macros] You debug with print statements? Why don't you also test with them?
 https://github.com/yglukhov/coverage [] Code coverage library for Nim. Inspired by Andreas Rumpf talk at OSCON.

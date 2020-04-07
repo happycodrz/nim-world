@@ -1,0 +1,4 @@
+https://github.com/treeform/digitalocean [] Wrapper for DigitalOcean HTTP API.
+https://github.com/treeform/googleapi [] GoogleAPI access from nim.
+https://github.com/treeform/steamworks [] Nim bindings to steamworks, valve's steam sdk.
+https://github.com/watzon/github-api-nim [] Nim wrapper for the GitHub API (WIP)

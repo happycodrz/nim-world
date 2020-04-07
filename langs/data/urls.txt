@@ -1,7 +1,9 @@
+https://github.com/h3rald/ickle [] A MAL implementation slowly evolving towards a R7RS-compliant scheme.
 https://github.com/jangko/nimLUA [] glue code generator to bind Nim and Lua together using Nim's powerful macro
 https://github.com/metacraft-labs/py2nim [] A Python-to-Nim transpiler
 https://github.com/nc-x/c8 [] A Chip8 Emulator
 https://github.com/nc-x/crafty [] Crafting Interpreters in Nim
 https://github.com/PMunch/combparser [] A parser combinator library for easy generation of complex parsers
+https://github.com/RapidFingers/Craxe [] Haxe to nim transpiler
 https://github.com/sinkingsugar/nimline [] Wrapper-less C/C++ interop for Nim
 https://github.com/yglukhov/clurp [] Slurp C libraries into nim packages

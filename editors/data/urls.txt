@@ -1,3 +1,5 @@
 https://github.com/AndreiRegiani/INim [] Interactive Nim Shell / REPL / Playground
 https://github.com/PMunch/nimlsp [] Language Server Protocol implementation for Nim
+https://github.com/treeform/mddoc [] Generated Nim's API docs in markdown for github's README.md files. Great for small libraries with simple APIs.
+https://github.com/treeform/morepretty [] Morepretty - like nimpretty but with more stuff.
 https://github.com/trustable-code/geany-nim-filetype [] Geany configuration file to support the Nim programming language

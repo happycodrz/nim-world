@@ -1,4 +1,5 @@
 https://github.com/cheatfate/asynctools [] Various asynchronous tools for Nim language
 https://github.com/mratsim/weave [] A state-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead
 https://github.com/status-im/nim-chronos [] Chronos - An efficient library for asynchronous programming
+https://github.com/treeform/greenlet [] Greenlet - Coroutines library for nim similar to python's greenlet. (very fast)
 https://github.com/yglukhov/threadpools [] Thread Pools

@@ -1,5 +1,6 @@
 https://github.com/c-blake/cligen [] Nim library to infer/generate command-line-interfaces http://c-blake.github.io/cligen/
 https://github.com/dom96/nimbox [] Nimbox is a Rustbox-inspired termbox wrapper for Nim.
+https://github.com/FedericoCeratto/nim-dashing [] Terminal dashboards for Nim
 https://github.com/h3rald/nimline [] A line editing library in pure Nim. https://h3rald.com/nimline/nimline.html
 https://github.com/johnnovak/illwill [] illwill is a (n)curses inspired simple terminal library that aims to make writing cross-platform text mode applications easy.
 https://github.com/madprops/nap [] Nim Argument Parser

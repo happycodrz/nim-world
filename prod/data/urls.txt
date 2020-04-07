@@ -1,2 +1,6 @@
+https://github.com/FedericoCeratto/nim-morelogging [] Logging library for Nim
+https://github.com/FedericoCeratto/nim-statsd-client [] A simple StatsD client for Nim
+https://github.com/FedericoCeratto/nim-syslog [] Nim syslog module
 https://github.com/status-im/nim-chronicles [] A crafty implementation of structured logging for Nim.
 https://github.com/status-im/nim-metrics [] Nim metrics client library supporting the Prometheus monitoring toolkit, StatsD and Carbon
+https://github.com/treeform/guardmons [] Collection of nim shell utilities and libraries.

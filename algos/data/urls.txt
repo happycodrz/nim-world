@@ -29,6 +29,11 @@ https://github.com/status-im/nim-stint [integers, floats, decimal] Stack-based a
 https://github.com/StefanSalewski/cdt [] Constrained Delaunay Triangulation (2D), incremental / fully dynamic
 https://github.com/StefanSalewski/minmaxheap [] Heap with minimum and maximum access
 https://github.com/StefanSalewski/RTree [] Pure Nim generic R-Tree and R*-Tree
+https://github.com/treeform/chroma [] Everything you want to do with colors, in nim.
+https://github.com/treeform/flippy [] Flippy is a simple 2d image and drawing library.
+https://github.com/treeform/orbits [] Orbits - orbital mechanics library for nim.
+https://github.com/treeform/vmath [] Math vector library for graphical things.
+https://github.com/treeform/word2vec [] Word2vec implemented in nim.
 https://github.com/unicredit/alea [] Define and compose random variables https://github.com/unicredit/alea
 https://github.com/unicredit/cello [cool] A string library https://unicredit.github.io/cello/
 https://github.com/unicredit/linear-algebra [] Linear algebra for Nim http://unicredit.github.io/linear-alg…

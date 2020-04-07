@@ -10,6 +10,9 @@ update_async:
 update_cli:
 	export UPDATER_ROOT=$$(pwd)/cli && cd ex && mix update
 
+update_clients:
+	export UPDATER_ROOT=$$(pwd)/clients && cd ex && mix update
+
 update_db:
 	export UPDATER_ROOT=$$(pwd)/dbs && cd ex && mix update
 
@@ -19,8 +22,8 @@ update_editors:
 update_formats:
 	export UPDATER_ROOT=$$(pwd)/formats && cd ex && mix update
 
-update_fun:
-	export UPDATER_ROOT=$$(pwd)/fun && cd ex && mix update
+update_gamedev:
+	export UPDATER_ROOT=$$(pwd)/gamedev && cd ex && mix update
 
 update_gui:
 	export UPDATER_ROOT=$$(pwd)/gui && cd ex && mix update
@@ -55,4 +58,4 @@ update_utils:
 update_web:
 	export UPDATER_ROOT=$$(pwd)/web && cd ex && mix update
 
-update_all: update_algos update_cli update_editors update_formats update_langs update_libs update_macros update_schema update_system update_testing update_utils update_web
+update_all: update_algos update_cli update_editors update_formats update_gamedev update_langs update_libs update_macros update_schema update_system update_testing update_utils update_web

@@ -1,0 +1,10 @@
+https://github.com/exelotl/natu [] Toolkit for writing Game Boy Advance games in Nim
+https://github.com/ftsf/ld38-smalltrek [game] smalltrek
+https://github.com/ftsf/ld40-cutecatsdaily [] Ludum Dare 40 entry - Cute Cats Daily
+https://github.com/ftsf/ld41-netcrawler [game] Deckbuilding Tower Defence Game
+https://github.com/ftsf/ld43-serpents-souls [] LD43 Serpent's Souls game
+https://github.com/ftsf/nico [game] Nim Game Framework based on Pico-8
+https://github.com/ftsf/nimsynth [game] A modular synth and sequencer made with Nim
+https://github.com/julienaubert/nim-sndfile [] Wrapper of libsndfile for nimrod
+https://github.com/lecram/gifenc [] small C GIF encoder
+https://github.com/nim-lang/sdl2 [] Nim wrapper for SDL 2.x
