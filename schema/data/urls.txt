@@ -1,0 +1,1 @@
+https://github.com/PMunch/jsonschema [] Schema validation of JSON for Nim
