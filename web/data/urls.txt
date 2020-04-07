@@ -1,10 +1,13 @@
 https://github.com/bluenote10/NimSvg [] Nim-based DSL allowing to generate SVG files and GIF animations.
 https://github.com/dom96/httpbeast [] Extremely fast HTTP responses in Nim.
 https://github.com/dom96/jester [] A sinatra-like web framework for Nim.
+https://github.com/FedericoCeratto/nim-httpauth [] HTTP Authentication library for Nim
 https://github.com/h3rald/nimhttpd [] A tiny static file web server written in Nim
+https://github.com/itsumura-h/nim-basolato [] A fullstack web framework for Nim based on Jester
 https://github.com/juancarlospaco/nim-html-tools [] HTML5 Tools for Nim, all Templates, No CSS, No Libs, No JS Framework
 https://github.com/onionhammer/nim-templates [] A simple string templating library for Nim
 https://github.com/status-im/nim-bearssl [] BearSSL wrapper in Nim
 https://github.com/status-im/nim-http-utils [] Nim language HTTP helper procedures
 https://github.com/Tormund/news [] news - nim easy web socket. Based on https://github.com/treeform/ws
+https://github.com/treeform/jsutils [] A library for nim that makes working with JS easier.
 https://github.com/xmonader/nim-servy [] Servy is a fast, simple and lightweight micro web-framework for Nim
