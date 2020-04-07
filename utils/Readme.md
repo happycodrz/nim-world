@@ -1,4 +1,4 @@
-## Haxe Utils / Kitchensink libs
+## Nim Utils / Kitchensink libs
 
 
 ### Navigation

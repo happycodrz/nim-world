@@ -1,4 +1,4 @@
-## Haxe: Languages / Interpreters / Parsers
+## Nim: Languages / Interpreters / Parsers
 
 
 ### Navigation

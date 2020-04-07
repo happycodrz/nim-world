@@ -1,4 +1,4 @@
-## Haxe Algorithms
+## Nim Algorithms
 
 
 ### Navigation

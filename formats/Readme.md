@@ -1,4 +1,4 @@
-## Haxe: Encoders / Decoders for various formats
+## Nim: Encoders / Decoders for various formats
 
 
 ### Navigation

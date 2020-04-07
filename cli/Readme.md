@@ -1,4 +1,4 @@
-## Haxe: CLI related libraries
+## Nim: CLI related libraries
 
 
 ### Navigation

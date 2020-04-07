@@ -1,4 +1,4 @@
-## Haxe : Editor related packages
+## Nim : Editor related packages
 
 
 ### Navigation
