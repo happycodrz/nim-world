@@ -3,6 +3,7 @@ https://github.com/b3liever/eminim [] JSON deserialization macro for nim
 https://github.com/flyx/NimYAML [] YAML implementation for Nim https://nimyaml.org
 https://github.com/jangko/msgpack4nim [] MessagePack implementation written in pure nim
 https://github.com/jangko/nimpdf [] PDF document writer, written in nim lang
+https://github.com/NimParsers/parsetoml [] A Nim library to parse TOML files https://nimparsers.github.io/parsetoml/
 https://github.com/status-im/nim-json-serialization [] Flexible JSON serialization not relying on run-time type information
 https://github.com/status-im/nim-serialization [] A modern and extensible serialization framework for Nim
 https://github.com/unicredit/csvtools [] Manage CSV files in Nim http://unicredit.github.io/csvtools/
