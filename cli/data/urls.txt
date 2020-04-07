@@ -1,0 +1,4 @@
+https://github.com/c-blake/cligen [] Nim library to infer/generate command-line-interfaces http://c-blake.github.io/cligen/
+https://github.com/dom96/nimbox [] Nimbox is a Rustbox-inspired termbox wrapper for Nim.
+https://github.com/nais314/stui [] Simplified Terminal UI (Nim lang, ANSI)
+https://github.com/PMunch/termstyle [] Easy to use styles for terminal output
