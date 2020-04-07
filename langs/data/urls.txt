@@ -1,2 +1,5 @@
 https://github.com/jangko/nimLUA [] glue code generator to bind Nim and Lua together using Nim's powerful macro
+https://github.com/nc-x/c8 [] A Chip8 Emulator
+https://github.com/nc-x/crafty [] Crafting Interpreters in Nim
+https://github.com/PMunch/combparser [] A parser combinator library for easy generation of complex parsers
 https://github.com/yglukhov/clurp [] Slurp C libraries into nim packages
