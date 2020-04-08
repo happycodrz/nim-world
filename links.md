@@ -19,7 +19,7 @@
 - https://github.com/sstadick/bioinfo_benchmarks - Language benchmarks that are important for Bioinformatics scripting (https://www.reddit.com/r/nim/comments/bjv9w3/save_nim_for_me/)
 - https://github.com/mratsim/constantine/tree/master/benchmarks Constant time pairing-based or elliptic curve based cryptography and digital signatures
 - https://github.com/treeform/nimbench -> Set of nim benchmarks.
--
+- https://github.com/disruptek/golden -> a benchmark for compile-time and/or runtime Nim 🏆
 
 ## Ops / CI / Compilation
 
@@ -28,6 +28,7 @@
 - https://github.com/kaushalmodi/hello_musl
 - https://github.com/georgy7/build-with-musl
 - https://hookrace.net/blog/nim-binary-size/
+    - https://github.com/def-/nim-binary-size
 - https://github.com/kaushalmodi/nim_config#list-available-tasks
 - https://github.com/status-im/nimbus-launch -> Jumpstart your Nim project at Status
 - https://github.com/status-im/nim-docker -> Nim docker images used to build Status nim projects
@@ -35,7 +36,7 @@
 
 
 ## Community
-
+- https://github.com/orgs/nim-lang/people
 - https://github.com/FedericoCeratto - Federico Ceratto
 - https://github.com/ftsf - impbox - ftsf (indie gamedev)
 - https://github.com/jangko - andri lim
@@ -46,6 +47,7 @@
 - https://github.com/treeform - andrevonhouck.com
 - https://github.com/yglukhov - Yuriy Glukhov
 - https://github.com/disruptek - Andy Davidoff
+- https://github.com/Clyybber?tab=repositories
 
 
 ## Books

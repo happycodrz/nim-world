@@ -1,4 +1,6 @@
 https://github.com/alehander92/comprehension [] A nim library providing comprehensions:
+https://github.com/alehander92/gara [] A nim macro-based pattern matching library.
+https://github.com/citycide/cascade [] Method & assignment cascades for Nim, inspired by Smalltalk & Dart.
 https://github.com/kaushalmodi/elnim [] Collection of Nim procs/templates/macros which can serve as "phew! I am glad Nim has this!" for Emacs/Emacs-Lisp/Lisp enthusiasts.
 https://github.com/krux02/ast-pattern-matching [] A library to do pattern matching on the AST in the Nim programming language.
 https://github.com/nigredo-tori/classy [] Haskell-style typeclasses for Nim.
@@ -6,7 +8,8 @@ https://github.com/oprypin/nimception [] Templating language for Nim that uses N
 https://github.com/PMunch/explanations [] Nim module that allows you to document return values in-place
 https://github.com/PMunch/macroutils [] A package that makes creating macros easier
 https://github.com/treeform/print [] Print is a set of pretty print macros, useful for print-debugging.
+https://github.com/Vindaar/shell [] A Nim mini DSL to execute shell commands
 https://github.com/yglukhov/typelists [] Typelists in Nim
+https://github.com/zah/nim-package-visible-types [] A hacky helper lib for authoring Nim packages with package-level visiblity
 https://github.com/zero-functional/zero-functional [mustread] A library providing zero-cost chaining for functional abstractions in Nim.
 https://github.com/zevv/with [] with macro for Nim -> with is fun, but as its own project it should have a splash image like "Inspired by a forbidden(TM) JavaScript feature!"
-https://github.com/Vindaar/shell [] A Nim mini DSL to execute shell commands

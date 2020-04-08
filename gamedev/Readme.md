@@ -10,6 +10,7 @@
 
 ### By Name
 <!-- PROJECTS_LIST -->
+- [def-/nimes](https://github.com/def-/nimes) - NimES: NES Emulator in Nim <br/> ( 2018-08-16 / 32 commits / 234 stars )
 - [exelotl/natu](https://github.com/exelotl/natu) - Toolkit for writing Game Boy Advance games in Nim <br/> ( 2020-02-13 / 38 commits / 25 stars )
 - [ftsf/ld38-smalltrek](https://github.com/ftsf/ld38-smalltrek) -  <br/> ( 2019-07-17 / 18 commits / 31 stars )
 - [ftsf/ld40-cutecatsdaily](https://github.com/ftsf/ld40-cutecatsdaily) - Ludum Dare 40 entry - Cute Cats Daily <br/> ( 2019-03-10 / 6 commits / 0 stars )
@@ -33,11 +34,12 @@
 - [ftsf/nimsynth](https://github.com/ftsf/nimsynth) - A modular synth and sequencer made with Nim <br/> (150 commits / 41 stars / 2019-04-26 )
 - [ftsf/nico](https://github.com/ftsf/nico) - Nim Game Framework based on Pico-8 <br/> (98 commits / 121 stars / 2019-05-25 )
 - [exelotl/natu](https://github.com/exelotl/natu) - Toolkit for writing Game Boy Advance games in Nim <br/> (38 commits / 25 stars / 2020-02-13 )
-- [lecram/gifenc](https://github.com/lecram/gifenc) - small C GIF encoder <br/> (18 commits / 128 stars / 2018-01-27 )
+- [def-/nimes](https://github.com/def-/nimes) - NimES: NES Emulator in Nim <br/> (32 commits / 234 stars / 2018-08-16 )
 - [ftsf/ld38-smalltrek](https://github.com/ftsf/ld38-smalltrek) -  <br/> (18 commits / 31 stars / 2019-07-17 )
+- [lecram/gifenc](https://github.com/lecram/gifenc) - small C GIF encoder <br/> (18 commits / 128 stars / 2018-01-27 )
 - [ftsf/ld43-serpents-souls](https://github.com/ftsf/ld43-serpents-souls) - LD43 Serpent's Souls game <br/> (16 commits / 0 stars / 2018-12-23 )
-- [Vladar4/NimVoxelSpaceDemo](https://github.com/Vladar4/NimVoxelSpaceDemo) - VoxelSpace engine demo in Nim using SDL2 <br/> (13 commits / 10 stars / 2019-09-02 )
 - [julienaubert/nim-sndfile](https://github.com/julienaubert/nim-sndfile) - Wrapper of libsndfile for nimrod <br/> (13 commits / 5 stars / 2017-08-07 )
+- [Vladar4/NimVoxelSpaceDemo](https://github.com/Vladar4/NimVoxelSpaceDemo) - VoxelSpace engine demo in Nim using SDL2 <br/> (13 commits / 10 stars / 2019-09-02 )
 - [ftsf/ld40-cutecatsdaily](https://github.com/ftsf/ld40-cutecatsdaily) - Ludum Dare 40 entry - Cute Cats Daily <br/> (6 commits / 0 stars / 2019-03-10 )
 - [ftsf/ld41-netcrawler](https://github.com/ftsf/ld41-netcrawler) - Deckbuilding Tower Defence Game <br/> (4 commits / 1 stars / 2019-03-10 )
 <!-- /COMMITCOUNT_LIST -->
@@ -55,6 +57,7 @@
 - [ftsf/ld41-netcrawler](https://github.com/ftsf/ld41-netcrawler) - Deckbuilding Tower Defence Game <br/> ( 2019-03-10 / 4 commits / 1 stars )
 - [ftsf/ld40-cutecatsdaily](https://github.com/ftsf/ld40-cutecatsdaily) - Ludum Dare 40 entry - Cute Cats Daily <br/> ( 2019-03-10 / 6 commits / 0 stars )
 - [ftsf/ld43-serpents-souls](https://github.com/ftsf/ld43-serpents-souls) - LD43 Serpent's Souls game <br/> ( 2018-12-23 / 16 commits / 0 stars )
+- [def-/nimes](https://github.com/def-/nimes) - NimES: NES Emulator in Nim <br/> ( 2018-08-16 / 32 commits / 234 stars )
 - [lecram/gifenc](https://github.com/lecram/gifenc) - small C GIF encoder <br/> ( 2018-01-27 / 18 commits / 128 stars )
 - [julienaubert/nim-sndfile](https://github.com/julienaubert/nim-sndfile) - Wrapper of libsndfile for nimrod <br/> ( 2017-08-07 / 13 commits / 5 stars )
 <!-- /ACTIVITY_LIST -->
@@ -63,6 +66,7 @@
 
 ### By Popularity
 <!-- POPULARITY_LIST -->
+- [def-/nimes](https://github.com/def-/nimes) - NimES: NES Emulator in Nim <br/> (234 stars / 2018-08-16 / 32 commits )
 - [lecram/gifenc](https://github.com/lecram/gifenc) - small C GIF encoder <br/> (128 stars / 2018-01-27 / 18 commits )
 - [ftsf/nico](https://github.com/ftsf/nico) - Nim Game Framework based on Pico-8 <br/> (121 stars / 2019-05-25 / 98 commits )
 - [nim-lang/sdl2](https://github.com/nim-lang/sdl2) - Nim wrapper for SDL 2.x <br/> (103 stars / 2020-04-07 / 218 commits )

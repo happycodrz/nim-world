@@ -2,6 +2,7 @@ https://github.com/bluenote10/NimSvg [] Nim-based DSL allowing to generate SVG f
 https://github.com/dom96/httpbeast [] Extremely fast HTTP responses in Nim.
 https://github.com/dom96/jester [] A sinatra-like web framework for Nim.
 https://github.com/FedericoCeratto/nim-httpauth [] HTTP Authentication library for Nim
+https://github.com/fenekku/moustachu [] Mustache templating for Nim
 https://github.com/h3rald/nimhttpd [] A tiny static file web server written in Nim
 https://github.com/itsumura-h/nim-basolato [] A fullstack web framework for Nim based on Jester
 https://github.com/juancarlospaco/nim-html-tools [] HTML5 Tools for Nim, all Templates, No CSS, No Libs, No JS Framework

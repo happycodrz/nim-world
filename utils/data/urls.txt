@@ -2,8 +2,10 @@ https://github.com/Adeohluwa/gen [] Simple scaffolding tool for WEB / GUI / CLI 
 https://github.com/alehander92/gara [] A nim macro-based pattern matching library.
 https://github.com/andreaferretti/memo [] Memoization for Nim
 https://github.com/andreaferretti/patty [] A pattern matching library for Nim http://andreaferretti.github.io/patty
+https://github.com/def-/nim-iterutils [] Functional operations for iterators and slices, similar to sequtils, in Nim
 https://github.com/FedericoCeratto/nim-fswatch [] Nim wrapper for the fswatch library
 https://github.com/h3rald/far [] Find and Replace Utility
+https://github.com/hiteshjasani/nim-eternity [] Convert float delta times into human or bot readable formats
 https://github.com/narimiran/itertools [] Nim rewrite of a very popular Python module of the same name.
 https://github.com/sinkingsugar/fragments [] Collection of pure Nim utilities (ffi cpp nim threading dsl)
 https://github.com/status-im/nim-eth [] Ethereum-related utilities written in Nim. Includes things like Bloom filters, private/public key utilities, RLP, devp2p, and more.

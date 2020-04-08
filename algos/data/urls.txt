@@ -1,6 +1,7 @@
 https://github.com/aidansteele/sph [] sph is a Nim library for dealing with cryptographic hashes. It is a fairly thin wrapper of sphlib.
 https://github.com/c-blake/adix [] An Adaptive Index Library for Nim
 https://github.com/cheatfate/nimcrypto [] Nim cryptographic library
+https://github.com/Clyybber/nimryu [decimal] nim port of ryu
 https://github.com/dom96/untar [] Nim library for decompressing tar.gz files.
 https://github.com/jangko/nimAES [] Advanced Encryption Standard, Rinjdael Algorithm written in Nim
 https://github.com/jangko/nimBMP [] BMP encoder and decoder
@@ -18,6 +19,7 @@ https://github.com/numforge/laser [] The HPC toolbox: fused matrix multiplicatio
 https://github.com/numforge/loop-fusion [] Loop efficiently over a variadic number of containers
 https://github.com/numforge/nim-clblast [] A Nim wrapper for CLBlast, a tuned OpenCL BLAS library
 https://github.com/oprypin/nim-random [] Random number generation library for Nim
+https://github.com/pigmej/nim-simple-decimal [] Simple decimal library for Nim.
 https://github.com/PMunch/nim-persistent-vector [] Implementation of Clojures persistent vector in Nim for easy immutable lists.
 https://github.com/PMunch/strslice []  implementation of string slices that works on a common underlying string shared through a reference instead of copying parts of the string.
 https://github.com/sinkingsugar/nimtorch [] PyTorch - Python + Nim
