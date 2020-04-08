@@ -9,3 +9,4 @@ https://github.com/treeform/print [] Print is a set of pretty print macros, usef
 https://github.com/yglukhov/typelists [] Typelists in Nim
 https://github.com/zero-functional/zero-functional [mustread] A library providing zero-cost chaining for functional abstractions in Nim.
 https://github.com/zevv/with [] with macro for Nim -> with is fun, but as its own project it should have a splash image like "Inspired by a forbidden(TM) JavaScript feature!"
+https://github.com/Vindaar/shell [] A Nim mini DSL to execute shell commands

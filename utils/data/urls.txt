@@ -10,3 +10,4 @@ https://github.com/status-im/nim-stew [] stew is collection of utilities, std li
 https://github.com/treeform/chrono [] Chrono a Timestamps, Calendars, and Timezones library for nim.
 https://github.com/yglukhov/state_machine [] State machine
 https://github.com/yglukhov/variant [] Variant type and type matching for Nim
+https://github.com/timotheecour/vitanim [] A collection of Nim utilities
