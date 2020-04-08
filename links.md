@@ -40,6 +40,7 @@
 - https://github.com/ftsf - impbox - ftsf (indie gamedev)
 - https://github.com/jangko - andri lim
 - https://github.com/juancarlospaco - Juan Carlos
+- https://github.com/kaushalmodi - Kaushal Modi
 - https://github.com/mratsim - Mamy Ratsimbazafy
 - https://github.com/skellock - Steve Kellock
 - https://github.com/treeform - andrevonhouck.com
