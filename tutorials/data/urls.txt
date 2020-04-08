@@ -1,0 +1,5 @@
+https://github.com/narimiran/AdventOfCode2018 [] My Nim solutions for Advent of Code 2018
+https://github.com/narimiran/advent_of_code_2015 [] My solutions for Advent of Code 2015
+https://github.com/narimiran/AdventOfCode2017 [] My solutions for AoC 2017, using Nim, OCaml, and Python
+https://github.com/narimiran/advent_of_code_2016 [] My solutions for Advent of Code 2016 (python)
+https://github.com/narimiran/nim-basics [] Source files for Nim basics tutorial https://narimiran.github.io/nim-basics/

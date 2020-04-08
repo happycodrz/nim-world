@@ -12,6 +12,7 @@ https://github.com/juancarlospaco/nim-easings [] Robert Penner Easing Functions 
 https://github.com/juancarlospaco/nim-euclidean []  Euclidean Division & Euclidean Modulo for Nim
 https://github.com/mratsim/Arraymancer [] Arraymancer - A n-dimensional tensor (ndarray) library.
 https://github.com/mratsim/constantine [] Constantine - Constant Time Elliptic Curve Cryptography
+https://github.com/narimiran/sorta [] SortedTables in Nim, based on B-Trees
 https://github.com/nim-lang/zip [] Wrapper for the zip library
 https://github.com/numforge/laser [] The HPC toolbox: fused matrix multiplication, convolution, data-parallel strided tensor primitives, OpenMP facilities, SIMD, JIT Assembler, CPU detection, state-of-the-art vectorized BLAS for floats and integers
 https://github.com/numforge/loop-fusion [] Loop efficiently over a variadic number of containers

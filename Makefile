@@ -52,6 +52,9 @@ update_system:
 update_testing:
 	export UPDATER_ROOT=$$(pwd)/testing && cd ex && mix update
 
+update_tutorials:
+	export UPDATER_ROOT=$$(pwd)/tutorials && cd ex && mix update
+
 update_utils:
 	export UPDATER_ROOT=$$(pwd)/utils && cd ex && mix update
 
