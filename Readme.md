@@ -19,6 +19,7 @@
 
 ## Tutorials / Intros
 
+- [Nim Notes by Kaushal Modi](https://scripter.co/notes/nim/)
 - [The ultimate Nim introduction. Tutorial material and my slides - Araq - 2015](https://github.com/Araq/oscon2015)
 - [Slides and source code for my FOSDEM 2020 talk "Nim - Move semantics".](https://github.com/Araq/fosdem2020)
 - [Nim async voodoo - 2016](https://github.com/Araq/PolyConf2016/blob/master/polyconf.rst)
