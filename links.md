@@ -45,6 +45,7 @@
 - https://github.com/skellock - Steve Kellock
 - https://github.com/treeform - andrevonhouck.com
 - https://github.com/yglukhov - Yuriy Glukhov
+- https://github.com/disruptek - Andy Davidoff
 
 
 ## Books

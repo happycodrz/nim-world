@@ -1,3 +1,4 @@
+https://github.com/disruptek/nimph [] Nim package hierarchy manager from the future 🧚
 https://github.com/fowlmouth/nake [] Describe your Nim builds as tasks
 https://github.com/h3rald/nifty [] A decentralised (pseudo) package manager and script runne
 https://github.com/jiro4989/nimsh [] nimsh is a simple implementation of a shell in pure Nim.

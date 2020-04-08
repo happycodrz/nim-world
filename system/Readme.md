@@ -10,6 +10,7 @@
 
 ### By Name
 <!-- PROJECTS_LIST -->
+- [disruptek/nimph](https://github.com/disruptek/nimph) - Nim package hierarchy manager from the future 🧚 <br/> ( 2020-04-06 / 541 commits / 56 stars )
 - [fowlmouth/nake](https://github.com/fowlmouth/nake) - Describe your Nim builds as tasks <br/> ( 2019-11-04 / 148 commits / 99 stars )
 - [h3rald/nifty](https://github.com/h3rald/nifty) - A decentralised (pseudo) package manager and script runner <br/> ( 2018-10-21 / 40 commits / 24 stars )
 - [jiro4989/nimsh](https://github.com/jiro4989/nimsh) - nimsh is a simple implementation of a shell in pure Nim. <br/> ( 2020-02-29 / 5 commits / 9 stars )
@@ -21,6 +22,7 @@
 
 ### By CommitCount
 <!-- COMMITCOUNT_LIST -->
+- [disruptek/nimph](https://github.com/disruptek/nimph) - Nim package hierarchy manager from the future 🧚 <br/> (541 commits / 56 stars / 2020-04-06 )
 - [fowlmouth/nake](https://github.com/fowlmouth/nake) - Describe your Nim builds as tasks <br/> (148 commits / 99 stars / 2019-11-04 )
 - [Vindaar/shell](https://github.com/Vindaar/shell) - A Nim mini DSL to execute shell commands <br/> (87 commits / 28 stars / 2019-12-17 )
 - [h3rald/nifty](https://github.com/h3rald/nifty) - A decentralised (pseudo) package manager and script runner <br/> (40 commits / 24 stars / 2018-10-21 )
@@ -31,6 +33,7 @@
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
+- [disruptek/nimph](https://github.com/disruptek/nimph) - Nim package hierarchy manager from the future 🧚 <br/> ( 2020-04-06 / 541 commits / 56 stars )
 - [jiro4989/nimsh](https://github.com/jiro4989/nimsh) - nimsh is a simple implementation of a shell in pure Nim. <br/> ( 2020-02-29 / 5 commits / 9 stars )
 - [Vindaar/shell](https://github.com/Vindaar/shell) - A Nim mini DSL to execute shell commands <br/> ( 2019-12-17 / 87 commits / 28 stars )
 - [fowlmouth/nake](https://github.com/fowlmouth/nake) - Describe your Nim builds as tasks <br/> ( 2019-11-04 / 148 commits / 99 stars )
@@ -43,6 +46,7 @@
 ### By Popularity
 <!-- POPULARITY_LIST -->
 - [fowlmouth/nake](https://github.com/fowlmouth/nake) - Describe your Nim builds as tasks <br/> (99 stars / 2019-11-04 / 148 commits )
+- [disruptek/nimph](https://github.com/disruptek/nimph) - Nim package hierarchy manager from the future 🧚 <br/> (56 stars / 2020-04-06 / 541 commits )
 - [treeform/netpipe](https://github.com/treeform/netpipe) - NetPipe - reliable UDP connection library for Nim. <br/> (29 stars / 2019-07-31 / 11 commits )
 - [Vindaar/shell](https://github.com/Vindaar/shell) - A Nim mini DSL to execute shell commands <br/> (28 stars / 2019-12-17 / 87 commits )
 - [h3rald/nifty](https://github.com/h3rald/nifty) - A decentralised (pseudo) package manager and script runner <br/> (24 stars / 2018-10-21 / 40 commits )

@@ -1,3 +1,6 @@
+# https://github.com/disruptek/atoz [] Amazon Web Services (AWS) APIs in Nim
+https://github.com/disruptek/openapi [] OpenAPI Code Generator for Nim
+https://github.com/disruptek/rest [] REST comfort
 https://github.com/treeform/digitalocean [] Wrapper for DigitalOcean HTTP API.
 https://github.com/treeform/googleapi [] GoogleAPI access from nim.
 https://github.com/treeform/steamworks [] Nim bindings to steamworks, valve's steam sdk.
