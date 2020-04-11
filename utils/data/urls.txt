@@ -7,6 +7,8 @@ https://github.com/FedericoCeratto/nim-fswatch [] Nim wrapper for the fswatch li
 https://github.com/h3rald/far [] Find and Replace Utility
 https://github.com/hiteshjasani/nim-eternity [] Convert float delta times into human or bot readable formats
 https://github.com/narimiran/itertools [] Nim rewrite of a very popular Python module of the same name.
+https://github.com/nitely/nim-regex [] Pure Nim regex engine with linear time match https://nitely.github.io/nim-regex/
+https://github.com/nitely/nregex [] A fast DFA based Regex engine that supports submatches https://nitely.github.io/nregex/
 https://github.com/sinkingsugar/fragments [] Collection of pure Nim utilities (ffi cpp nim threading dsl)
 https://github.com/status-im/nim-eth [] Ethereum-related utilities written in Nim. Includes things like Bloom filters, private/public key utilities, RLP, devp2p, and more.
 https://github.com/status-im/nim-stew [] stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.

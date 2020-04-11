@@ -1,18 +1,33 @@
 # LINKS
 
 - [Nim for Python Programmers - MUSTREAD](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers)
-- [Python/Cython/Nim CheatSheet (2019/09) -> AWESOME!](https://dev.to/juancarlospaco/python-cython-nim-cheatsheet-hjj)
 - [Speeding Up Python with Nim (2019/01)](https://robert-mcdermott.gitlab.io/posts/speeding-up-python-with-nim/)
 - [nim vs perl ! what's wrong?](https://forum.nim-lang.org/t/2816)
 - [5 Reasons Why Nim Is Becoming My Favorite Language (2020/01)](https://dev.to/rburmorrison/5-reasons-why-nim-is-becoming-my-favorite-language-4oke)
 - [Faster Command Line Tools in Nim - 2017/05](https://nim-lang.org/blog/2017/05/25/faster-command-line-tools-in-nim.html)
+
+- [Learning Nim: var vs let vs const (2020/02)](https://dev.to/sigmapie8/learning-nim-var-vs-let-vs-const-25l8)
+
+
+## Peter Munch-Ellingsen - peterme.net / PMunch
+- [Metaprogramming and read- and maintainability in Nim (2019/06)](https://peterme.net/metaprogramming-and-read-and-maintainability-in-nim.html)
+- [Nim types (originally a Reddit reply) (2018/01)](https://peterme.net/nim-types-originally-a-reddit-reply.html)
+- [Handling files in Nim (2018/05)](https://peterme.net/handling-files-in-nim.html)
+- [Nim at FOSDEM - Frequently asked questions (2018/02)](https://peterme.net/nim-at-fosdem-frequently-asked-questions.html)
+
+## Juan Carlos - juancarlospaco / https://dev.to/juancarlospaco
+- [Python/Cython/Nim CheatSheet (2019/09) -> AWESOME!](https://dev.to/juancarlospaco/python-cython-nim-cheatsheet-hjj)
+- [Ode to Nimpy (2019/11)](https://dev.to/juancarlospaco/ode-to-nimpy-4753)
+
+
+## Matthias Hager
+- [Let's Explore Object Oriented Programming with Nim (2018/12)](https://matthiashager.com/nim-object-oriented-programming)
+- [Let's Explore proc and method in Nim](https://matthiashager.com/proc-method-nim)
+- https://matthiashager.com/gui-options-for-nim
+
+## Steve Kellock - totallywearingpants.com / skellock
 - [Nim - A Programming Language Underdog (2018/09)](https://totallywearingpants.com/posts/nim-underdog/)
 - [Nim Language Highlights (2018/09)](https://totallywearingpants.com/posts/nim-language-highlights/)
-- [Let's Explore proc and method in Nim](https://matthiashager.com/proc-method-nim)
-- [Let's Explore Object Oriented Programming with Nim (2018/12)](https://matthiashager.com/nim-object-oriented-programming)
-- [Learning Nim: var vs let vs const (2020/02)](https://dev.to/sigmapie8/learning-nim-var-vs-let-vs-const-25l8)
-- [Metaprogramming and read- and maintainability in Nim (2019/06)](https://peterme.net/metaprogramming-and-read-and-maintainability-in-nim.html)
-
 
 ## Benchmarks
 

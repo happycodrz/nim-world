@@ -1,13 +1,15 @@
+https://github.com/alialrahahleh/fjq [] Fast JQ (JSON Querying and format)
+https://github.com/citycide/glob [] Pure Nim library for matching file paths against Unix style glob patterns. https://citycide.github.io/glob
+https://github.com/def-/nim-binary-size [] Nim binary size from 160 KB to 150 Bytes http://hookrace.net/blog/binary-size-…
+https://github.com/def-/nim-small-coreutils [] Coreutils that compile into tiny binaries
+https://github.com/def-/nim-syscall [] Raw system calls for Nim
 https://github.com/disruptek/nimph [] Nim package hierarchy manager from the future 🧚
 https://github.com/fowlmouth/nake [] Describe your Nim builds as tasks
 https://github.com/h3rald/nifty [] A decentralised (pseudo) package manager and script runne
+https://github.com/jamestthompson3/nimblef [] A find / fd clone written in nim
 https://github.com/jiro4989/nimsh [] nimsh is a simple implementation of a shell in pure Nim.
+https://github.com/PMunch/nimcr [] Running Nim code with Shebangs
+https://github.com/refi64/fcp [] An ultra-fast, multi-threaded file copy utility
 https://github.com/treeform/netpipe [] NetPipe - reliable UDP connection library for Nim.
 https://github.com/Vindaar/shell [] A Nim mini DSL to execute shell commands
-https://github.com/jamestthompson3/nimblef [] A find / fd clone written in nim
-https://github.com/citycide/glob [] Pure Nim library for matching file paths against Unix style glob patterns. https://citycide.github.io/glob
-https://github.com/def-/nim-syscall [] Raw system calls for Nim
-https://github.com/def-/nim-binary-size [] Nim binary size from 160 KB to 150 Bytes http://hookrace.net/blog/binary-size-…
-https://github.com/def-/nim-small-coreutils [] Coreutils that compile into tiny binaries
 https://github.com/zah/nim-hcr-astronauts [] A simple Nim hot code reloading demo prepared by Viktor Kirilov for ACCU 2019
-https://github.com/PMunch/nimcr [] Running Nim code with Shebangs

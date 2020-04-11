@@ -1,4 +1,8 @@
+https://github.com/ba0f3/fsm.nim [] Simple finite state machine for @nim-lang
+https://github.com/bobgeis/nimSpaceRocks [] Asteroids using nim -> js: https://bobgeis.github.io/nimSpaceRocks
+https://github.com/c0ntribut0r/cat-400 [] Game framework for nim programming language. Modular and extensible
 https://github.com/def-/nimes [] NimES: NES Emulator in Nim
+https://github.com/dustinlacewell/dadren [] A data-driven game engine for Nim
 https://github.com/exelotl/natu [] Toolkit for writing Game Boy Advance games in Nim
 https://github.com/ftsf/ld38-smalltrek [game] smalltrek
 https://github.com/ftsf/ld40-cutecatsdaily [] Ludum Dare 40 entry - Cute Cats Daily
@@ -6,8 +10,15 @@ https://github.com/ftsf/ld41-netcrawler [game] Deckbuilding Tower Defence Game
 https://github.com/ftsf/ld43-serpents-souls [] LD43 Serpent's Souls game
 https://github.com/ftsf/nico [game] Nim Game Framework based on Pico-8
 https://github.com/ftsf/nimsynth [game] A modular synth and sequencer made with Nim
+https://github.com/JohnAD/turn_based_game [] Game rules engine for simulating or playing turn-based games.
 https://github.com/julienaubert/nim-sndfile [] Wrapper of libsndfile for nimrod
 https://github.com/lecram/gifenc [] small C GIF encoder
+https://github.com/liquid600pgm/rapid [] A game engine written in Nim, optimized for rapid game development and prototyping.
+https://github.com/mark-summerfield/gravitate-nim [] A pure nim GUI game like TileFall/SameGame
 https://github.com/nim-lang/sdl2 [] Nim wrapper for SDL 2.x
+https://github.com/OnsetGame/falconserver [real] falcon game server
+https://github.com/Vladar4/FastStack [] FastStack is dynamically resizable data structure optimized for fast iteration over the large arrays of similar elements avoiding memory fragmentation (e.g., update and rendering cycles of a game scene).
 https://github.com/Vladar4/nimgame2 [] A simple 2D game engine for Nim language.
 https://github.com/Vladar4/NimVoxelSpaceDemo [] VoxelSpace engine demo in Nim using SDL2
+https://github.com/yglukhov/rod [] Cross-platform game engine
+https://github.com/zacharycarter/zengine [] 2D | 3D Game development library

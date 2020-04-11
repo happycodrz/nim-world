@@ -1,10 +1,13 @@
+https://github.com/akiradeveloper/msgpack-nim [] A MessagePack binding for Nim
 https://github.com/Araq/packedjson [] packedjson is an alternative Nim implementation for JSON. The JSON is essentially kept as a single string in order to save memory over a more traditional tree representation.
 https://github.com/b3liever/eminim [] JSON deserialization macro for nim
 https://github.com/flyx/NimYAML [] YAML implementation for Nim https://nimyaml.org
 https://github.com/jangko/msgpack4nim [] MessagePack implementation written in pure nim
 https://github.com/jangko/nimpdf [] PDF document writer, written in nim lang
+https://github.com/KeepCoolWithCoolidge/nimlibxlsxwriter [] Nim bindings for libxlsxwriter
 https://github.com/NimParsers/parsetoml [] A Nim library to parse TOML files https://nimparsers.github.io/parsetoml/
-https://github.com/soasme/nim-markdown [] A Beautiful Markdown Parser in the Nim World. 
+https://github.com/OpenSystemsLab/sam.nim [] Fast and just works JSON-Binding for Nim https://opensystemslab.github.io/sam.…
+https://github.com/soasme/nim-markdown [] A Beautiful Markdown Parser in the Nim World.
 https://github.com/status-im/nim-json-serialization [] Flexible JSON serialization not relying on run-time type information
 https://github.com/status-im/nim-serialization [] A modern and extensible serialization framework for Nim
 https://github.com/unicredit/csvtools [] Manage CSV files in Nim http://unicredit.github.io/csvtools/

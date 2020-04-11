@@ -6,6 +6,7 @@ https://github.com/fenekku/moustachu [] Mustache templating for Nim
 https://github.com/h3rald/nimhttpd [] A tiny static file web server written in Nim
 https://github.com/itsumura-h/nim-basolato [] A fullstack web framework for Nim based on Jester
 https://github.com/juancarlospaco/nim-html-tools [] HTML5 Tools for Nim, all Templates, No CSS, No Libs, No JS Framework
+https://github.com/mattaylor/whip [] Simple fast http server for nim based on httpbeast and nest for high performance routing
 https://github.com/onionhammer/nim-templates [] A simple string templating library for Nim
 https://github.com/status-im/nim-bearssl [] BearSSL wrapper in Nim
 https://github.com/status-im/nim-http-utils [] Nim language HTTP helper procedures

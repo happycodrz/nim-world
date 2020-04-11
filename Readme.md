@@ -31,3 +31,4 @@
 - [Nim async voodoo - 2016](https://github.com/Araq/PolyConf2016/blob/master/polyconf.rst)
 - [NimCon2015 - workshop](https://github.com/Araq/NimCon2015/blob/master/nimcon.rst)
 - [Nimrod - 2014 by Dennis Felsing](http://felsin9.de/nnis/nimrod/nimrod-gpn14.pdf) - http://felsin9.de/nnis/software/
+

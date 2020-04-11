@@ -3,6 +3,7 @@ https://github.com/alehander92/gara [] A nim macro-based pattern matching librar
 https://github.com/citycide/cascade [] Method & assignment cascades for Nim, inspired by Smalltalk & Dart.
 https://github.com/kaushalmodi/elnim [] Collection of Nim procs/templates/macros which can serve as "phew! I am glad Nim has this!" for Emacs/Emacs-Lisp/Lisp enthusiasts.
 https://github.com/krux02/ast-pattern-matching [] A library to do pattern matching on the AST in the Nim programming language.
+https://github.com/mattaylor/elvis [] truthy, ternary, elvis and conditional assignment and conditional access operators for nim
 https://github.com/nigredo-tori/classy [] Haskell-style typeclasses for Nim.
 https://github.com/oprypin/nimception [] Templating language for Nim that uses Nim syntax and can be evaluated entirely at compile time
 https://github.com/PMunch/explanations [] Nim module that allows you to document return values in-place
