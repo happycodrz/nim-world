@@ -3,6 +3,7 @@ https://github.com/c-blake/adix [] An Adaptive Index Library for Nim
 https://github.com/cheatfate/nimcrypto [] Nim cryptographic library
 https://github.com/Clyybber/nimryu [decimal] nim port of ryu
 https://github.com/dom96/untar [] Nim library for decompressing tar.gz files.
+https://github.com/HugoGranstrom/numericalnim [] A collection of numerical methods written in Nim
 https://github.com/jangko/nimAES [] Advanced Encryption Standard, Rinjdael Algorithm written in Nim
 https://github.com/jangko/nimBMP [] BMP encoder and decoder
 https://github.com/jangko/nimPNG [] PNG (Portable Network Graphics) decoder and encoder written in Nim

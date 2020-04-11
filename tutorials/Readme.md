@@ -10,59 +10,55 @@
 
 ### By Name
 <!-- PROJECTS_LIST -->
-- [h3rald/ickle](https://github.com/h3rald/ickle) - A MAL implementation slowly evolving towards a R7RS-compliant scheme. <br/> ( 2016-01-24 / 10 commits / 0 stars )
-- [jangko/nimLUA](https://github.com/jangko/nimLUA) - glue code generator to bind Nim and Lua together using Nim's powerful macro <br/> ( 2019-06-06 / 79 commits / 44 stars )
-- [metacraft-labs/py2nim](https://github.com/metacraft-labs/py2nim) - A Python-to-Nim transpiler <br/> ( 2020-01-21 / 5 commits / 109 stars )
-- [nc-x/c8](https://github.com/nc-x/c8) - A Chip8 Emulator <br/> ( 2018-10-26 / 7 commits / 3 stars )
-- [nc-x/crafty](https://github.com/nc-x/crafty) - Crafting Interpreters in Nim <br/> ( 2019-09-08 / 22 commits / 4 stars )
-- [PMunch/combparser](https://github.com/PMunch/combparser) - A parser combinator library for easy generation of complex parsers <br/> ( 2019-08-21 / 34 commits / 16 stars )
-- [RapidFingers/Craxe](https://github.com/RapidFingers/Craxe) - Haxe to nim transpiler <br/> ( 2019-07-09 / 216 commits / 29 stars )
-- [sinkingsugar/nimline](https://github.com/sinkingsugar/nimline) - Wrapper-less C/C++ interop for Nim <br/> ( 2020-02-19 / 47 commits / 52 stars )
-- [yglukhov/clurp](https://github.com/yglukhov/clurp) - Slurp C libraries into nim packages <br/> ( 2020-03-05 / 9 commits / 4 stars )
+- [btbytes/nim-cookbook](https://github.com/btbytes/nim-cookbook) - Nim Programming Cookbook <br/> ( 2017-12-16 / 61 commits / 36 stars )
+- [def-/nim-unsorted](https://github.com/def-/nim-unsorted) - Unsorted Nim code that I wrote for some reason (largely Rosetta Code) <br/> ( 2018-04-08 / 150 commits / 92 stars )
+- [exelotl/aoc2019](https://github.com/exelotl/aoc2019) - Advent of code 2k19 in Nim, until I get tired and stop <br/> ( 2019-12-08 / 8 commits / 0 stars )
+- [narimiran/advent_of_code_2015](https://github.com/narimiran/advent_of_code_2015) - My solutions for Advent of Code 2015 <br/> ( 2019-11-27 / 44 commits / 5 stars )
+- [narimiran/advent_of_code_2016](https://github.com/narimiran/advent_of_code_2016) - My solutions for Advent of Code 2016 <br/> ( 2019-11-27 / 63 commits / 3 stars )
+- [narimiran/AdventOfCode2017](https://github.com/narimiran/AdventOfCode2017) - My solutions for AoC 2017, using Nim, OCaml, and Python <br/> ( 2019-11-30 / 104 commits / 34 stars )
+- [narimiran/AdventOfCode2018](https://github.com/narimiran/AdventOfCode2018) - My Nim solutions for Advent of Code 2018 <br/> ( 2019-11-28 / 36 commits / 11 stars )
+- [narimiran/nim-basics](https://github.com/narimiran/nim-basics) - Source files for Nim basics tutorial <br/> ( 2019-10-07 / 48 commits / 53 stars )
 <!-- /PROJECTS_LIST -->
 
 [⬆ Navigation](#navigation)
 
 ### By CommitCount
 <!-- COMMITCOUNT_LIST -->
-- [RapidFingers/Craxe](https://github.com/RapidFingers/Craxe) - Haxe to nim transpiler <br/> (216 commits / 29 stars / 2019-07-09 )
-- [jangko/nimLUA](https://github.com/jangko/nimLUA) - glue code generator to bind Nim and Lua together using Nim's powerful macro <br/> (79 commits / 44 stars / 2019-06-06 )
-- [sinkingsugar/nimline](https://github.com/sinkingsugar/nimline) - Wrapper-less C/C++ interop for Nim <br/> (47 commits / 52 stars / 2020-02-19 )
-- [PMunch/combparser](https://github.com/PMunch/combparser) - A parser combinator library for easy generation of complex parsers <br/> (34 commits / 16 stars / 2019-08-21 )
-- [nc-x/crafty](https://github.com/nc-x/crafty) - Crafting Interpreters in Nim <br/> (22 commits / 4 stars / 2019-09-08 )
-- [h3rald/ickle](https://github.com/h3rald/ickle) - A MAL implementation slowly evolving towards a R7RS-compliant scheme. <br/> (10 commits / 0 stars / 2016-01-24 )
-- [yglukhov/clurp](https://github.com/yglukhov/clurp) - Slurp C libraries into nim packages <br/> (9 commits / 4 stars / 2020-03-05 )
-- [nc-x/c8](https://github.com/nc-x/c8) - A Chip8 Emulator <br/> (7 commits / 3 stars / 2018-10-26 )
-- [metacraft-labs/py2nim](https://github.com/metacraft-labs/py2nim) - A Python-to-Nim transpiler <br/> (5 commits / 109 stars / 2020-01-21 )
+- [def-/nim-unsorted](https://github.com/def-/nim-unsorted) - Unsorted Nim code that I wrote for some reason (largely Rosetta Code) <br/> (150 commits / 92 stars / 2018-04-08 )
+- [narimiran/AdventOfCode2017](https://github.com/narimiran/AdventOfCode2017) - My solutions for AoC 2017, using Nim, OCaml, and Python <br/> (104 commits / 34 stars / 2019-11-30 )
+- [narimiran/advent_of_code_2016](https://github.com/narimiran/advent_of_code_2016) - My solutions for Advent of Code 2016 <br/> (63 commits / 3 stars / 2019-11-27 )
+- [btbytes/nim-cookbook](https://github.com/btbytes/nim-cookbook) - Nim Programming Cookbook <br/> (61 commits / 36 stars / 2017-12-16 )
+- [narimiran/nim-basics](https://github.com/narimiran/nim-basics) - Source files for Nim basics tutorial <br/> (48 commits / 53 stars / 2019-10-07 )
+- [narimiran/advent_of_code_2015](https://github.com/narimiran/advent_of_code_2015) - My solutions for Advent of Code 2015 <br/> (44 commits / 5 stars / 2019-11-27 )
+- [narimiran/AdventOfCode2018](https://github.com/narimiran/AdventOfCode2018) - My Nim solutions for Advent of Code 2018 <br/> (36 commits / 11 stars / 2019-11-28 )
+- [exelotl/aoc2019](https://github.com/exelotl/aoc2019) - Advent of code 2k19 in Nim, until I get tired and stop <br/> (8 commits / 0 stars / 2019-12-08 )
 <!-- /COMMITCOUNT_LIST -->
 [⬆ Navigation](#navigation)
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
-- [yglukhov/clurp](https://github.com/yglukhov/clurp) - Slurp C libraries into nim packages <br/> ( 2020-03-05 / 9 commits / 4 stars )
-- [sinkingsugar/nimline](https://github.com/sinkingsugar/nimline) - Wrapper-less C/C++ interop for Nim <br/> ( 2020-02-19 / 47 commits / 52 stars )
-- [metacraft-labs/py2nim](https://github.com/metacraft-labs/py2nim) - A Python-to-Nim transpiler <br/> ( 2020-01-21 / 5 commits / 109 stars )
-- [nc-x/crafty](https://github.com/nc-x/crafty) - Crafting Interpreters in Nim <br/> ( 2019-09-08 / 22 commits / 4 stars )
-- [PMunch/combparser](https://github.com/PMunch/combparser) - A parser combinator library for easy generation of complex parsers <br/> ( 2019-08-21 / 34 commits / 16 stars )
-- [RapidFingers/Craxe](https://github.com/RapidFingers/Craxe) - Haxe to nim transpiler <br/> ( 2019-07-09 / 216 commits / 29 stars )
-- [jangko/nimLUA](https://github.com/jangko/nimLUA) - glue code generator to bind Nim and Lua together using Nim's powerful macro <br/> ( 2019-06-06 / 79 commits / 44 stars )
-- [nc-x/c8](https://github.com/nc-x/c8) - A Chip8 Emulator <br/> ( 2018-10-26 / 7 commits / 3 stars )
-- [h3rald/ickle](https://github.com/h3rald/ickle) - A MAL implementation slowly evolving towards a R7RS-compliant scheme. <br/> ( 2016-01-24 / 10 commits / 0 stars )
+- [exelotl/aoc2019](https://github.com/exelotl/aoc2019) - Advent of code 2k19 in Nim, until I get tired and stop <br/> ( 2019-12-08 / 8 commits / 0 stars )
+- [narimiran/AdventOfCode2017](https://github.com/narimiran/AdventOfCode2017) - My solutions for AoC 2017, using Nim, OCaml, and Python <br/> ( 2019-11-30 / 104 commits / 34 stars )
+- [narimiran/AdventOfCode2018](https://github.com/narimiran/AdventOfCode2018) - My Nim solutions for Advent of Code 2018 <br/> ( 2019-11-28 / 36 commits / 11 stars )
+- [narimiran/advent_of_code_2015](https://github.com/narimiran/advent_of_code_2015) - My solutions for Advent of Code 2015 <br/> ( 2019-11-27 / 44 commits / 5 stars )
+- [narimiran/advent_of_code_2016](https://github.com/narimiran/advent_of_code_2016) - My solutions for Advent of Code 2016 <br/> ( 2019-11-27 / 63 commits / 3 stars )
+- [narimiran/nim-basics](https://github.com/narimiran/nim-basics) - Source files for Nim basics tutorial <br/> ( 2019-10-07 / 48 commits / 53 stars )
+- [def-/nim-unsorted](https://github.com/def-/nim-unsorted) - Unsorted Nim code that I wrote for some reason (largely Rosetta Code) <br/> ( 2018-04-08 / 150 commits / 92 stars )
+- [btbytes/nim-cookbook](https://github.com/btbytes/nim-cookbook) - Nim Programming Cookbook <br/> ( 2017-12-16 / 61 commits / 36 stars )
 <!-- /ACTIVITY_LIST -->
 
 [⬆ Navigation](#navigation)
 
 ### By Popularity
 <!-- POPULARITY_LIST -->
-- [metacraft-labs/py2nim](https://github.com/metacraft-labs/py2nim) - A Python-to-Nim transpiler <br/> (109 stars / 2020-01-21 / 5 commits )
-- [sinkingsugar/nimline](https://github.com/sinkingsugar/nimline) - Wrapper-less C/C++ interop for Nim <br/> (52 stars / 2020-02-19 / 47 commits )
-- [jangko/nimLUA](https://github.com/jangko/nimLUA) - glue code generator to bind Nim and Lua together using Nim's powerful macro <br/> (44 stars / 2019-06-06 / 79 commits )
-- [RapidFingers/Craxe](https://github.com/RapidFingers/Craxe) - Haxe to nim transpiler <br/> (29 stars / 2019-07-09 / 216 commits )
-- [PMunch/combparser](https://github.com/PMunch/combparser) - A parser combinator library for easy generation of complex parsers <br/> (16 stars / 2019-08-21 / 34 commits )
-- [yglukhov/clurp](https://github.com/yglukhov/clurp) - Slurp C libraries into nim packages <br/> (4 stars / 2020-03-05 / 9 commits )
-- [nc-x/crafty](https://github.com/nc-x/crafty) - Crafting Interpreters in Nim <br/> (4 stars / 2019-09-08 / 22 commits )
-- [nc-x/c8](https://github.com/nc-x/c8) - A Chip8 Emulator <br/> (3 stars / 2018-10-26 / 7 commits )
-- [h3rald/ickle](https://github.com/h3rald/ickle) - A MAL implementation slowly evolving towards a R7RS-compliant scheme. <br/> (0 stars / 2016-01-24 / 10 commits )
+- [def-/nim-unsorted](https://github.com/def-/nim-unsorted) - Unsorted Nim code that I wrote for some reason (largely Rosetta Code) <br/> (92 stars / 2018-04-08 / 150 commits )
+- [narimiran/nim-basics](https://github.com/narimiran/nim-basics) - Source files for Nim basics tutorial <br/> (53 stars / 2019-10-07 / 48 commits )
+- [btbytes/nim-cookbook](https://github.com/btbytes/nim-cookbook) - Nim Programming Cookbook <br/> (36 stars / 2017-12-16 / 61 commits )
+- [narimiran/AdventOfCode2017](https://github.com/narimiran/AdventOfCode2017) - My solutions for AoC 2017, using Nim, OCaml, and Python <br/> (34 stars / 2019-11-30 / 104 commits )
+- [narimiran/AdventOfCode2018](https://github.com/narimiran/AdventOfCode2018) - My Nim solutions for Advent of Code 2018 <br/> (11 stars / 2019-11-28 / 36 commits )
+- [narimiran/advent_of_code_2015](https://github.com/narimiran/advent_of_code_2015) - My solutions for Advent of Code 2015 <br/> (5 stars / 2019-11-27 / 44 commits )
+- [narimiran/advent_of_code_2016](https://github.com/narimiran/advent_of_code_2016) - My solutions for Advent of Code 2016 <br/> (3 stars / 2019-11-27 / 63 commits )
+- [exelotl/aoc2019](https://github.com/exelotl/aoc2019) - Advent of code 2k19 in Nim, until I get tired and stop <br/> (0 stars / 2019-12-08 / 8 commits )
 <!-- /POPULARITY_LIST -->
 
 [⬆ Navigation](#navigation)
