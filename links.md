@@ -69,7 +69,7 @@
 
 
 ## Nim in Action
-  https://book.picheta.me/
-  https://nim-lang.org/blog/2017/10/02/documenting-profiling-and-debugging-nim-code.html?ref=picheta
-  https://github.com/dom96/nim-in-action-code
-  https://deepakg.github.io/nim/2019/09/28/nim-in-action-errata.html
+- https://book.picheta.me/
+- https://nim-lang.org/blog/2017/10/02/documenting-profiling-and-debugging-nim-code.html
+- https://github.com/dom96/nim-in-action-code
+- https://deepakg.github.io/nim/2019/09/28/nim-in-action-errata.html
