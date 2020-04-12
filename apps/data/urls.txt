@@ -3,6 +3,7 @@ https://github.com/h3rald/hastysite [] A small but powerful static site generato
 https://github.com/h3rald/litestore [] A lightweight, self-contained, RESTful, searchable, multi-format NoSQL document store. https://h3rald.com/litestore
 https://github.com/juancarlospaco/xpm [] X-Pixmap & NetPBM
 https://github.com/nim-lang/nimforum [] Lightweight alternative to Discourse written in Nim https://forum.nim-lang.org/
+https://github.com/samdmarshall/necromancy [] quick and simple interactive file system navigator
 https://github.com/status-im/nim-beacon-chain [] Implementation of Ethereum Sharded Casper v2.1 Beacon Chain
 https://github.com/status-im/nim-eth-contracts [] Ethereum smart contracts in Nim
 https://github.com/status-im/nim-ethash [] Nim implementation of Ethash, Ethereum proof of work and Ethereum mining

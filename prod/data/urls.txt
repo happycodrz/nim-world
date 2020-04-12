@@ -1,3 +1,4 @@
+https://github.com/CORDEA/backoff [] Implementation of exponential backoff for nim.
 https://github.com/FedericoCeratto/nim-morelogging [] Logging library for Nim
 https://github.com/FedericoCeratto/nim-statsd-client [] A simple StatsD client for Nim
 https://github.com/FedericoCeratto/nim-syslog [] Nim syslog module

@@ -8,6 +8,7 @@ https://github.com/fowlmouth/nake [] Describe your Nim builds as tasks
 https://github.com/h3rald/nifty [] A decentralised (pseudo) package manager and script runne
 https://github.com/jamestthompson3/nimblef [] A find / fd clone written in nim
 https://github.com/jiro4989/nimsh [] nimsh is a simple implementation of a shell in pure Nim.
+https://github.com/kensh1ro/nimrarcracker [] Bindings for Libunrar
 https://github.com/PMunch/nimcr [] Running Nim code with Shebangs
 https://github.com/refi64/fcp [] An ultra-fast, multi-threaded file copy utility
 https://github.com/treeform/netpipe [] NetPipe - reliable UDP connection library for Nim.

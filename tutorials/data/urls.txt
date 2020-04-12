@@ -1,5 +1,6 @@
 https://github.com/btbytes/nim-cookbook [] Nim Programming Cookbook http://nim-cookbook.btbytes.com/
 https://github.com/def-/nim-unsorted [] Unsorted Nim code that I wrote for some reason (largely Rosetta Code)
+https://github.com/dom96/nim-in-action-code [] Nim in Action code samples https://book.picheta.me
 https://github.com/exelotl/aoc2019 [] Advent of code 2k19 in Nim, until I get tired and stop
 https://github.com/narimiran/advent_of_code_2015 [] My solutions for Advent of Code 2015
 https://github.com/narimiran/advent_of_code_2016 [] My solutions for Advent of Code 2016 (python)

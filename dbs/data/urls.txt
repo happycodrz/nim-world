@@ -1,5 +1,6 @@
 https://github.com/Bennyelg/csvql [sqlite] query CSVs in memory. with ansi sql
 https://github.com/cheatfate/asyncpg [postgres] Asynchronous PostgreSQL driver for Nim language
+https://github.com/FedericoCeratto/nim-lmdb [] Nim LMDB wrapper
 https://github.com/GULPF/tiny_sqlite [sqlite] A thin SQLite wrapper for Nim. Compared to the std/db_sqlite module it has several advantages:
 https://github.com/itsumura-h/nim-allographer [orm, sql] A query_builder/ORM library inspired by Laravel/PHP and Orator/Python for Nim
 https://github.com/jlp765/db [orm] Unified db access module

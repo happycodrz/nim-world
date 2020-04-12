@@ -1,11 +1,9 @@
 # LINKS
-
 - [Nim for Python Programmers - MUSTREAD](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers)
 - [Speeding Up Python with Nim (2019/01)](https://robert-mcdermott.gitlab.io/posts/speeding-up-python-with-nim/)
 - [nim vs perl ! what's wrong?](https://forum.nim-lang.org/t/2816)
 - [5 Reasons Why Nim Is Becoming My Favorite Language (2020/01)](https://dev.to/rburmorrison/5-reasons-why-nim-is-becoming-my-favorite-language-4oke)
 - [Faster Command Line Tools in Nim - 2017/05](https://nim-lang.org/blog/2017/05/25/faster-command-line-tools-in-nim.html)
-
 - [Learning Nim: var vs let vs const (2020/02)](https://dev.to/sigmapie8/learning-nim-var-vs-let-vs-const-25l8)
 
 
@@ -30,7 +28,6 @@
 - [Nim Language Highlights (2018/09)](https://totallywearingpants.com/posts/nim-language-highlights/)
 
 ## Benchmarks
-
 - https://github.com/sstadick/bioinfo_benchmarks - Language benchmarks that are important for Bioinformatics scripting (https://www.reddit.com/r/nim/comments/bjv9w3/save_nim_for_me/)
 - https://github.com/mratsim/constantine/tree/master/benchmarks Constant time pairing-based or elliptic curve based cryptography and digital signatures
 - https://github.com/treeform/nimbench -> Set of nim benchmarks.

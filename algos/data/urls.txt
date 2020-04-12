@@ -2,7 +2,10 @@ https://github.com/aidansteele/sph [] sph is a Nim library for dealing with cryp
 https://github.com/c-blake/adix [] An Adaptive Index Library for Nim
 https://github.com/cheatfate/nimcrypto [] Nim cryptographic library
 https://github.com/Clyybber/nimryu [decimal] nim port of ryu
+https://github.com/CORDEA/totp [] Generate Time-Based One-Time Password
 https://github.com/dom96/untar [] Nim library for decompressing tar.gz files.
+https://github.com/ebran/grim [] grim brings property graphs to the Nim language. Look around you: everything is a graph! https://ebran.github.io/grim/
+https://github.com/erhlee-bird/simple_graph [] Quick and easy graph data structure for Nim.
 https://github.com/HugoGranstrom/numericalnim [] A collection of numerical methods written in Nim
 https://github.com/jangko/nimAES [] Advanced Encryption Standard, Rinjdael Algorithm written in Nim
 https://github.com/jangko/nimBMP [] BMP encoder and decoder
@@ -16,6 +19,8 @@ https://github.com/mratsim/Arraymancer [] Arraymancer - A n-dimensional tensor (
 https://github.com/mratsim/constantine [] Constantine - Constant Time Elliptic Curve Cryptography
 https://github.com/narimiran/sorta [] SortedTables in Nim, based on B-Trees
 https://github.com/nim-lang/zip [] Wrapper for the zip library
+https://github.com/nitely/nim-hpack [] HPACK (Header Compression for HTTP/2) https://nitely.github.io/nim-hpack/
+https://github.com/nitely/nim-regex [] Pure Nim regex engine with linear time match https://nitely.github.io/nim-regex/
 https://github.com/numforge/laser [] The HPC toolbox: fused matrix multiplication, convolution, data-parallel strided tensor primitives, OpenMP facilities, SIMD, JIT Assembler, CPU detection, state-of-the-art vectorized BLAS for floats and integers
 https://github.com/numforge/loop-fusion [] Loop efficiently over a variadic number of containers
 https://github.com/numforge/nim-clblast [] A Nim wrapper for CLBlast, a tuned OpenCL BLAS library

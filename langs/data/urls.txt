@@ -2,6 +2,7 @@ https://github.com/def-/nim-brainfuck [] A brainfuck interpreter and compiler wr
 https://github.com/geotre/wren [] A nim wrapper for Wren, an embedded scripting language
 https://github.com/h3rald/ickle [] A MAL implementation slowly evolving towards a R7RS-compliant scheme.
 https://github.com/jangko/nimLUA [] glue code generator to bind Nim and Lua together using Nim's powerful macro
+https://github.com/Kashiwara0205/monkey-nim [] monkey language
 https://github.com/metacraft-labs/py2nim [] A Python-to-Nim transpiler
 https://github.com/nc-x/c8 [] A Chip8 Emulator
 https://github.com/nc-x/crafty [] Crafting Interpreters in Nim

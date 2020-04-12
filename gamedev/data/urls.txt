@@ -21,4 +21,5 @@ https://github.com/Vladar4/FastStack [] FastStack is dynamically resizable data 
 https://github.com/Vladar4/nimgame2 [] A simple 2D game engine for Nim language.
 https://github.com/Vladar4/NimVoxelSpaceDemo [] VoxelSpace engine demo in Nim using SDL2
 https://github.com/yglukhov/rod [] Cross-platform game engine
+https://github.com/zacharycarter/zeal [] 3d rts game
 https://github.com/zacharycarter/zengine [] 2D | 3D Game development library
