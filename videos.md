@@ -24,6 +24,9 @@
 - https://www.youtube.com/watch?v=yA32Wxl59wo
 
 
+## Exporting C APIs from Zig, D, and Nim
+
+- https://www.youtube.com/watch?v=4o_tmccinds
 
 ## Fred Heath - The Nim programming language - Bristech 2016
 - https://www.youtube.com/watch?v=_HeU8yg_WaE

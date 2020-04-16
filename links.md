@@ -5,6 +5,7 @@
 - [5 Reasons Why Nim Is Becoming My Favorite Language (2020/01)](https://dev.to/rburmorrison/5-reasons-why-nim-is-becoming-my-favorite-language-4oke)
 - [Faster Command Line Tools in Nim - 2017/05](https://nim-lang.org/blog/2017/05/25/faster-command-line-tools-in-nim.html)
 - [Learning Nim: var vs let vs const (2020/02)](https://dev.to/sigmapie8/learning-nim-var-vs-let-vs-const-25l8)
+- [The Nim memory model > MUSTREAD](http://zevv.nl/nim-memory/#_introduction)
 
 
 ## Peter Munch-Ellingsen - peterme.net / PMunch
