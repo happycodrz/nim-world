@@ -1,13 +1,20 @@
+https://github.com/adelq/ulid [] Universally Unique Lexicographically Sortable Identifier in Nim
 https://github.com/c-blake/adix [] An Adaptive Index Library for Nim
 https://github.com/Clyybber/nimryu [decimal] nim port of ryu
 https://github.com/CORDEA/totp [] Generate Time-Based One-Time Password
 https://github.com/dom96/untar [] Nim library for decompressing tar.gz files.
 https://github.com/ebran/grim [] grim brings property graphs to the Nim language. Look around you: everything is a graph! https://ebran.github.io/grim/
 https://github.com/erhlee-bird/simple_graph [] Quick and easy graph data structure for Nim.
+https://github.com/felixwegener/basic-algorithms [] An implementation of algorithms and data structures in Nim
+https://github.com/foo-lin/algo-data-nim [] Basic algorithm and data structure in nim
+https://github.com/jackhftang/jetutils [] A collection of data-structure and algorithm written in pure Nim
+https://github.com/jackhftang/lrucache [] LRU cache in pure nim https://jackhftang.github.io/lrucache/
+https://github.com/jackhftang/nim-lfu [] Least Frequently Used
 https://github.com/jangko/nimBMP [] BMP encoder and decoder
 https://github.com/jangko/nimPNG [] PNG (Portable Network Graphics) decoder and encoder written in Nim
 https://github.com/narimiran/sorta [] SortedTables in Nim, based on B-Trees
 https://github.com/nim-lang/zip [] Wrapper for the zip library
+https://github.com/nimlight/asyncio [] Basic data structures for async Nim.
 https://github.com/nitely/nim-hpack [] HPACK (Header Compression for HTTP/2) https://nitely.github.io/nim-hpack/
 https://github.com/nitely/nim-regex [] Pure Nim regex engine with linear time match https://nitely.github.io/nim-regex/
 https://github.com/pigmej/nim-simple-decimal [] Simple decimal library for Nim.
@@ -17,6 +24,9 @@ https://github.com/StefanSalewski/minmaxheap [] Heap with minimum and maximum ac
 https://github.com/StefanSalewski/RTree [] Pure Nim generic R-Tree and R*-Tree
 https://github.com/treeform/flippy [] Flippy is a simple 2d image and drawing library.
 https://github.com/unicredit/cello [cool] A string library https://unicredit.github.io/cello/
+https://github.com/Vladar4/FastStack [] FastStack is dynamically resizable data structure optimized for fast iteration over the large arrays of similar elements avoiding memory fragmentation (e.g., update and rendering cycles of a game scene).
+https://github.com/xflywind/data-structure-in-Nim [] data-structure-in-Nim. Blog in tea.nim-cn.com.
+https://github.com/xflywind/lfucache [] Some data structures to implement lfucache written by Nim
 https://github.com/yglukhov/asyncssh [] High level async libssh2 wrapper
 https://github.com/yglukhov/imgtools [] Image Tools
 https://github.com/yglukhov/nimsl [] Shaders in Nim language

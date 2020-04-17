@@ -15,6 +15,7 @@ https://github.com/numforge/loop-fusion [] Loop efficiently over a variadic numb
 https://github.com/numforge/nim-clblast [] A Nim wrapper for CLBlast, a tuned OpenCL BLAS library
 https://github.com/oprypin/nim-random [] Random number generation library for Nim
 https://github.com/PMunch/nim-persistent-vector [] Implementation of Clojures persistent vector in Nim for easy immutable lists.
+https://github.com/ruivieira/nim-mentat [] A Nim library for data science and machine learning
 https://github.com/sinkingsugar/nimtorch [] PyTorch - Python + Nim
 https://github.com/status-im/nim-blscurve [] BLS Signature Scheme over BLS12-381 pairing-friendly curve
 https://github.com/status-im/nim-bncurve [] Nim Barreto-Naehrig pairing-friendly elliptic curve implementation

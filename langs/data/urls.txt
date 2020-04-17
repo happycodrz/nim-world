@@ -11,6 +11,7 @@ https://github.com/Pebaz/nimporter [python] Compile Nim Extensions for Python On
 https://github.com/PMunch/combparser [] A parser combinator library for easy generation of complex parsers
 https://github.com/RapidFingers/Craxe [] Haxe to nim transpiler
 https://github.com/sinkingsugar/nimline [] Wrapper-less C/C++ interop for Nim
+https://github.com/Vladar4/lisnim [] Lisp interpreter in Nim
 https://github.com/Yardanico/nim-lox [] Lox interpreter written in Nim
 https://github.com/Yardanico/nim-mathexpr [] Tiny math expression evaluator library implemented in pure Nim
 https://github.com/Yardanico/nimpylib [] Some python standard library functions ported to Nim
