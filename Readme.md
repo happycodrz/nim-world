@@ -13,6 +13,7 @@
 - [Languages / DSLs](langs/Readme.md)
 - [Prod readiness - Logs / Metrics](prod/Readme.md)
 - [Macro Tricks](macros/Readme.md)
+- [Math Packages](math/Readme.md)
 - [Reasoning / Logic](reasoning/Readme.md)
 - [RPC](rpc/Readme.md)
 - [Schemas / Validation](schema/Readme.md)

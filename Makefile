@@ -34,6 +34,9 @@ update_langs:
 update_macros:
 	export UPDATER_ROOT=$$(pwd)/macros && cd ex && mix update
 
+update_math:
+	export UPDATER_ROOT=$$(pwd)/math && cd ex && mix update
+
 update_prod:
 	export UPDATER_ROOT=$$(pwd)/prod && cd ex && mix update
 
