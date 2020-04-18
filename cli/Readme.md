@@ -1,5 +1,7 @@
 ## Nim: CLI related libraries
 
+- http://goran.krampe.se/2017/10/24/nim-crash-course-inside-lxc/
+  -> nice CLI tricks
 
 ### Navigation
 
