@@ -5,6 +5,7 @@ https://github.com/def-/nim-small-coreutils [] Coreutils that compile into tiny 
 https://github.com/def-/nim-syscall [] Raw system calls for Nim
 https://github.com/disruptek/nimph [] Nim package hierarchy manager from the future 🧚
 https://github.com/fowlmouth/nake [] Describe your Nim builds as tasks
+https://github.com/gokr/sprymicro [] Demo of two very small Spry interpreters reaching down to around 120kb
 https://github.com/h3rald/nifty [] A decentralised (pseudo) package manager and script runne
 https://github.com/jamestthompson3/nimblef [] A find / fd clone written in nim
 https://github.com/jiro4989/nimsh [] nimsh is a simple implementation of a shell in pure Nim.

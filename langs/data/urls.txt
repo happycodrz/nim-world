@@ -1,5 +1,8 @@
 https://github.com/def-/nim-brainfuck [] A brainfuck interpreter and compiler written in Nim
 https://github.com/geotre/wren [] A nim wrapper for Wren, an embedded scripting language
+https://github.com/gokr/spry [] A Smalltalk and Rebol inspired language implemented as an AST interpreter in Nim
+https://github.com/gokr/sprymicro [] Demo of two very small Spry interpreters reaching down to around 120kb
+https://github.com/gokr/spryvm [] The Spry language interpreter implemented in Nim
 https://github.com/h3rald/ickle [] A MAL implementation slowly evolving towards a R7RS-compliant scheme.
 https://github.com/jangko/nimLUA [] glue code generator to bind Nim and Lua together using Nim's powerful macro
 https://github.com/Kashiwara0205/monkey-nim [] monkey language
