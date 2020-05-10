@@ -13,6 +13,7 @@ https://github.com/ftsf/nimsynth [game] A modular synth and sequencer made with 
 https://github.com/JohnAD/turn_based_game [] Game rules engine for simulating or playing turn-based games.
 https://github.com/julienaubert/nim-sndfile [] Wrapper of libsndfile for nimrod
 https://github.com/lecram/gifenc [] small C GIF encoder
+https://github.com/liquid600pgm/delightful [] Raycasted 2D lighting demo.
 https://github.com/liquid600pgm/rapid [] A game engine written in Nim, optimized for rapid game development and prototyping.
 https://github.com/mark-summerfield/gravitate-nim [] A pure nim GUI game like TileFall/SameGame
 https://github.com/nim-lang/sdl2 [] Nim wrapper for SDL 2.x

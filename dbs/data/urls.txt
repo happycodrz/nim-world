@@ -10,6 +10,7 @@ https://github.com/juancarlospaco/nim-gatabase [orm] Compile-Time ORM for Nim
 https://github.com/moigagoo/norm [orm] A Nim ORM https://moigagoo.github.io/norm/norm.…
 https://github.com/moigagoo/norman [orm] Migration manager for Norm https://moigagoo.github.io/norman/nor…
 https://github.com/nim-lang/redis [] Official redis wrapper for Nim.
+https://github.com/SPY/nim-memcached [] Memcached client for Nim programming language
 https://github.com/SSPkrolik/asyncredis [redis] Asynchronous Redis client for Nim
 https://github.com/SSPkrolik/nimongo [mongodb] Pure Nim lang MongoDB driver http://sspkrolik.github.io/nimongo
 https://github.com/status-im/nim-rocksdb [rocksdb] Nim wrapper for RocksDB, a persistent key-value store for Flash and RAM Storage.

@@ -6,6 +6,10 @@ https://github.com/gokr/spryvm [] The Spry language interpreter implemented in N
 https://github.com/h3rald/ickle [] A MAL implementation slowly evolving towards a R7RS-compliant scheme.
 https://github.com/jangko/nimLUA [] glue code generator to bind Nim and Lua together using Nim's powerful macro
 https://github.com/Kashiwara0205/monkey-nim [] monkey language
+https://github.com/liquid600pgm/euwren [] High-level Wren wrapper for Nim
+https://github.com/liquid600pgm/nimLUA [important] WITH numerous improvements to make this library nicer to use and debug
+https://github.com/liquid600pgm/rod [] Embeddable scripting language for Nim. Work in progress. https://liquid600pgm.github.io/rod
+https://github.com/marteinn/Vaja-Lang [] A dynamic interpreted language inspired by Elixir, Lua, Python, Nim and Monkey.
 https://github.com/metacraft-labs/py2nim [] A Python-to-Nim transpiler
 https://github.com/nc-x/c8 [] A Chip8 Emulator
 https://github.com/nc-x/crafty [] Crafting Interpreters in Nim
@@ -20,3 +24,5 @@ https://github.com/Yardanico/nim-mathexpr [] Tiny math expression evaluator libr
 https://github.com/Yardanico/nimpylib [] Some python standard library functions ported to Nim
 https://github.com/yglukhov/clurp [] Slurp C libraries into nim packages
 https://github.com/yglukhov/nimpy [python] Nim - Python bridge
+https://github.com/zacharycarter/nimLUA [] glue code generator to bind Nim and Lua together using Nim's powerful macro
+https://gitlab.com/aurovm/aurovm [] Auro reference implementation (VM)
