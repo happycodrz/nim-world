@@ -33,6 +33,7 @@
 - https://github.com/mratsim/constantine/tree/master/benchmarks Constant time pairing-based or elliptic curve based cryptography and digital signatures
 - https://github.com/treeform/nimbench -> Set of nim benchmarks.
 - https://github.com/disruptek/golden -> a benchmark for compile-time and/or runtime Nim 🏆
+- https://github.com/liquid600pgm/pibench2
 
 ## Ops / CI / Compilation
 
