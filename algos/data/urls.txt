@@ -8,7 +8,7 @@ https://github.com/erhlee-bird/simple_graph [] Quick and easy graph data structu
 https://github.com/felixwegener/basic-algorithms [] An implementation of algorithms and data structures in Nim
 https://github.com/foo-lin/algo-data-nim [] Basic algorithm and data structure in nim
 https://github.com/jackhftang/jetutils [] A collection of data-structure and algorithm written in pure Nim
-https://github.com/jackhftang/lrucache [] LRU cache in pure nim https://jackhftang.github.io/lrucache/
+https://github.com/jackhftang/lrucache.nim [] LRU cache in pure nim https://jackhftang.github.io/lrucache/
 https://github.com/jackhftang/nim-lfu [] Least Frequently Used
 https://github.com/jangko/nimBMP [] BMP encoder and decoder
 https://github.com/jangko/nimPNG [] PNG (Portable Network Graphics) decoder and encoder written in Nim
