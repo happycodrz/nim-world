@@ -1,2 +1,2 @@
-https://github.com/status-im/nim-json-rpc [] Nim library for implementing JSON-RPC clients and servers
 https://github.com/def-/nim-nanomsg [] Nim wrapper for nanomsg, a socket library that provides several common communication patterns. It aims to make the networking layer fast, scalable, and easy to use.
+https://github.com/status-im/nim-json-rpc [] Nim library for implementing JSON-RPC clients and servers

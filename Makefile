@@ -64,4 +64,4 @@ update_utils:
 update_web:
 	export UPDATER_ROOT=$$(pwd)/web && cd ex && mix update
 
-update_all: update_algos update_cli update_editors update_formats update_gamedev update_langs update_libs update_macros update_schema update_system update_testing update_utils update_web
+update_all: update_algos update_cli update_editors update_formats update_gamedev update_langs update_macros update_schema update_system update_testing update_utils update_web
