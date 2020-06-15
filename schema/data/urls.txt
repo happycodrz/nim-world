@@ -1,2 +1,3 @@
 https://github.com/PMunch/jsonschema [] Schema validation of JSON for Nim
+https://github.com/rlipsc/polymers [] A library of components and systems for Polymorph.
 https://github.com/rlipsc/polymorph [] Polymorph is a compile-time composable entity component system generator.

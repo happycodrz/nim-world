@@ -12,3 +12,4 @@ https://github.com/PMunch/nimcr [] Running Nim code with Shebangs
 https://github.com/PMunch/termstyle [] Easy to use styles for terminal output
 https://github.com/status-im/nim-confutils [] Simplified handling of command line options and config files
 https://github.com/xmonader/nim-terminaltables [] terminal tables for nim
+https://github.com/joachimschmidt557/nimmm [] Terminal file manager written in nim
